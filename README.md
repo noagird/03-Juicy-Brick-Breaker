@@ -1,4 +1,4 @@
-# Project Name
+# Juicy Brick Breaker
 Juicy Brick Breaker game created on 10/13/2022
 
 A brick breaker with lots of added visual and auditory effects to break the standard.
